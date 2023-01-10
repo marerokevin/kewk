@@ -1,5 +1,6 @@
 import {createRouter, createWebHistory} from "vue-router";
 import DefaultLayout from "../components/DefautLayout.vue";
+import AuthLayout from "../components/AuthLayout.vue";
 import Login from "../views/Login.vue"
 import Surveys from "../views/Survey.vue"
 import Register from "../views/Register.vue"
